@@ -35,11 +35,11 @@ https://yanamandrasainath.github.io/ATS-Resume-Checker/
 git clone https://github.com/yanamandrasainath/ATS-Resume-Checker.git
 ```
 ### Option 2: Download as ZIP
-Open the GitHub repository.
-Click the Code button.
-Select Download ZIP.
-Extract the ZIP file.
-Open index.html in your browser.
+- Open the GitHub repository.
+- Click the Code button.
+- Select Download ZIP.
+- Extract the ZIP file.
+- Open index.html in your browser.
 ## Author
 
 Yanamandra Venkata Surya Satya Sainath
